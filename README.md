@@ -1,1 +1,1 @@
-# double-opt-in 1
+# double-opt-in
